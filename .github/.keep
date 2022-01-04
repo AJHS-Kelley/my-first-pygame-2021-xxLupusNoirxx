@@ -1,1 +1,11 @@
 # Simple Animation with Pygame. Kenyon Smith, 1:11. v0.0
+
+import pygame, sys, time
+from pygame.locals import *
+
+#Setup Pygame
+pygame.init()
+
+# Setup the Window
+WINDOWWIDTH = 400
+WINDOWHIEGHT = 400
